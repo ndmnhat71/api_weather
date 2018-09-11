@@ -1,0 +1,3 @@
+This project needs "requests" package from python 3 to run.
+The main script is simple_info.py which can be used in command line environment (MacOS/Ubuntu/Linux).
+Type "python3 simple_info.py -h" for options helps.
